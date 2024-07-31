@@ -26,6 +26,6 @@ The primary objective of this Amazon Sales Analysis Power BI dashboard is to pro
 
 1. Uncover sales trends and patterns: Identify periods of high and low sales, seasonal fluctuations, and long-term growth trends.
 
-2. Analyze sales performance by segment: Understand how different customer segments (e.g., Consumer, Corporate, Home Office) contribute to overall sales and profitability.
+2. Analyze sales performance by segment: Understand how different customer segments contribute to overall sales and profitability.
 
 3. Enable data-driven decision making: Provide business leaders and analysts with a powerful tool to make informed decisions based on real-time sales data and insights
