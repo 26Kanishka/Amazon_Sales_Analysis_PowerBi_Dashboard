@@ -10,14 +10,12 @@ Interactive Data Visualization: The dashboard includes multiple visual component
 
 2. Sales by Segment: Pie charts illustrating the sales breakdown across different customer segments .
 
-3. Geographic Sales Distribution: A world map showcasing sales volumes by region, with bubble sizes representing sales amounts.
+3. Profit Analysis: Bar charts detailing profit contributions by product and customer, highlighting the top and bottom performers.
 
-4. Profit Analysis: Bar charts detailing profit contributions by product and customer, highlighting the top and bottom performers.
-
-5. Dynamic Insights: Users can apply filters and slicers to customize their view, dynamically updating the visualizations based on 
+4. Dynamic Insights: Users can apply filters and slicers to customize their view, dynamically updating the visualizations based on 
    selected criteria.
 
-6. Key Performance Indicators (KPIs): The dashboard features important KPIs such as total sales, total profit, and sales projections, 
+5. Key Performance Indicators (KPIs): The dashboard features important KPIs such as total sales, total profit, and sales projections, 
    which adjust according to the applied filters.
 
    Objective :
@@ -28,4 +26,7 @@ The primary objective of this Amazon Sales Analysis Power BI dashboard is to pro
 
 2. Analyze sales performance by segment: Understand how different customer segments contribute to overall sales and profitability.
 
-3. Enable data-driven decision making: Provide business leaders and analysts with a powerful tool to make informed decisions based on real-time sales data and insights
+3. Enable data-driven decision making: Provide business leaders and analysts with a powerful tool to make informed decisions based on real-time sales data and insights.
+
+   ![Screenshot 2024-08-01 055312](https://github.com/user-attachments/assets/4b222f44-81f9-462b-8e07-f23e56426e5c)
+
